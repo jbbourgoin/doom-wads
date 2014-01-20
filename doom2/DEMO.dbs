@@ -1,0 +1,10 @@
+type = "Doom Builder Map Settings Configuration";
+config = "Doom 2";
+
+MAP01
+{
+	addwad = "";
+	addtexdir = "";
+	addflatdir = "";
+}
+
